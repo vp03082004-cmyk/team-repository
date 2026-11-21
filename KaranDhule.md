@@ -1,8 +1,8 @@
-# Hello, I am YOUR NAME
+# Hello, I am Karan Dhule
 
-**College or field:** YOUR COLLEGE OR FIELD
+**College or field:** BCA
 
-**City:** YOUR CITY
+**City:** Pune
 
 ## About me
 
